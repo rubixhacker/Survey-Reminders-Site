@@ -1,6 +1,6 @@
 {
-    "name": "Survey Reminders",
-    "short_name": "Reminders",
+    "name": "survey_reminders",
+    "short_name": "survey_reminders",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
